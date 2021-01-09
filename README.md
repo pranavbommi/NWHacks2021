@@ -1,4 +1,4 @@
 # NWHacks2021
 NWhacks
 
-Hello Pranav
+Rishi is stupid
